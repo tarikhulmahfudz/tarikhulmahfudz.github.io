@@ -10,6 +10,7 @@ tiled_bg:           false   # Set this true if you want to tile your background 
 locale:             en_US
 url:                http://taylantatli.me/Moon
 
+<<<<<<< HEAD
 # Jekyll
 permalink:          /:title/
 markdown:           kramdown
@@ -24,6 +25,12 @@ mathjax:            true
 sass:
   sass_dir:         _sass
   style:            compressed
+=======
+title:            tarikhul mahfudz
+locale:           en_US
+#url:              http://localhost:4000
+url:              http://tarikhulmahfudz.github.io
+>>>>>>> origin/master
 
 # Comments
 disqus_shortname:   taylantatli
@@ -67,8 +74,47 @@ gems:
   - jekyll-sitemap
   - jekyll-gist
 
+<<<<<<< HEAD
 jekyll-mentions:
     base_url: https://github.com
+=======
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+
+# Site owner
+owner:
+  name: tarikhul mahfudz
+  avatar: Instasize_0528142413.jpg
+  bio: "Describe your self."
+  email: 
+  disqus-shortname: 
+  twitter: #username
+  facebook:  #username
+  google:
+    plus:  #username
+    analytics: 
+    verify: 
+    ad-client: 
+    ad-slot: 
+  bing-verify: 
+  github: tarikhulmahfudz #username
+  stackoverflow: #http://stackoverflow.com/users/123456/username
+  linkedin: #username
+  instagram: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+>>>>>>> origin/master
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
