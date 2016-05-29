@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About tarikhul mahfudz
+title: tentang saya
 tags: [about, mahfud, uin, sif]
 date: 2016-03-21
 ---
