@@ -1,23 +1,13 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
+title: About tarikhul mahfudz
+tags: [about, mahfud, uin, sif]
 date: 2016-03-21
 ---
     
 <center><a href="http://tarikhulmahfudz.github.io"><b>saya</b></a> adalah seorang mahasiswa jurusan <a href="http://sif.uin-suska.ac.id/"><b>sistem informasi</b></a> disebuah <a href="http://uin-suska.ac.id/"><b>universitas islam negri</b></a> di kota pekanbaru.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+
 
 ## Preview
 
