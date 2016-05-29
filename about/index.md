@@ -9,11 +9,11 @@ date: 2016-03-21
 
 
 
-## Preview
+## kampus uin
 
 {% capture images %}
     http://hoteldekatkampus.com/wp-content/uploads/2014/10/UIN-Riau.jpg
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
+    http://onlinetest.pusat-bahasa.info/file/599453984IMG_7130.JPG
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
 
