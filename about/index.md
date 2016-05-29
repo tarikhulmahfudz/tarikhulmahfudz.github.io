@@ -5,7 +5,7 @@ tags: [about, Jekyll, theme, moon]
 date: 2016-03-21
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><a href="http://tarikhulmahfudz.github.io"><b>saya</b></a> adalah seorang mahasiswa jurusan <a href="http://sif.uin-suska.ac.id/"><b>sistem informasi</b></a> disebuah <a href="http://uin-suska.ac.id/"><b>universitas islam negri</b></a> di kota pekanbaru.</center>
 
 ## Features
 * Minimal, you can focus on your content
