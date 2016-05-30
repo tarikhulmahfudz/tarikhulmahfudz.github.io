@@ -14,8 +14,10 @@ date: 2016-03-21
 {% capture images %}
     http://hoteldekatkampus.com/wp-content/uploads/2014/10/UIN-Riau.jpg
     http://onlinetest.pusat-bahasa.info/file/599453984IMG_7130.JPG
+    http://pasca-uinsuska.info/file/812603306951118656748gapura.jpg
+    http://fst.uin-suska.ac.id/wp-content/uploads/2016/01/uin.jpg
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+{% include gallery images=images caption="uin sultan syarif kasim pekanbaru" cols=2 %}
 
 
 
